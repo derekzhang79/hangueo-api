@@ -37,13 +37,25 @@ RSpec.configure do |config|
   #     --seed 1234
   config.order = "random"
   
+  config.before(:suite) do
+    DatabaseCleaner.strategy = :deletion
+    DatabaseCleaner.clean_with(:deletion)
+  end
+
+  config.before(:each) do
+    DatabaseCleaner.start
+  end
+
+  config.after(:each) do
+    DatabaseCleaner.clean
+  end
   #Cleanup
   config.after(:all) do
     # Get rid of the linked images
     if Rails.env.test? || Rails.env.cucumber?
-      tmp = Factory(:category)
-      store_path = File.dirname(File.dirname(tmp.logo.url))
-      temp_path = tmp.logo.cache_dir
+      tmp = FactoryGirl.create(:category)
+      store_path = File.dirname(File.dirname(tmp.image.url))
+      temp_path = tmp.image.cache_dir
       FileUtils.rm_rf(Dir["#{Rails.root}/public/#{store_path}/[^.]*"])
       FileUtils.rm_rf(Dir["#{temp_path}/[^.]*"])
     end
