@@ -11,6 +11,8 @@ gem 'rmagick'
 gem "fog", "~> 1.3.1"
 gem 'bootstrap-sass', '~> 2.1.0.1'
 gem 'bootswatch-rails'
+gem 'bootstrap-datepicker-rails', :require => 'bootstrap-datepicker-rails',
+                                :git => 'git://github.com/Nerian/bootstrap-datepicker-rails.git'
 
 # Gems used only for assets and not required
 # in production environments by default.

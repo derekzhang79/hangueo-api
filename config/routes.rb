@@ -1,5 +1,7 @@
 HangueoApi::Application.routes.draw do
 
+  resources :ads
+
   resources :venues
 
   resources :hosts
