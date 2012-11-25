@@ -1,5 +1,37 @@
 <p id="notice"><%= notice %></p>
+<h1>Category <%= @category.name %></h1>
+<p>
+	<%= image_tag(@category.image.url) %>
+</p>
+<p>
+	<b>Name: </b>
+	<%= @category.name %>
+</p>
 
+<p>
+	<b>Category URL: </b>
+	<%= @category.image.url %>
+</p>
 
-<%= link_to 'Edit', edit_category_path(@category) %> |
-<%= link_to 'Back', categories_path %>
+<p>
+	<b>Events count: </b>
+	<% #@category.events.count %>
+</p>
+
+<h2>Events under this category</h2>
+<table class="table table-hover">
+  <caption>Events</caption>
+  <thead>
+    <tr>
+      <th>Name</th>
+      <th>Date</th>
+      <th>Time</th>
+      <th>Description</th>
+      <th>Venue</th>
+      <th>Host</th>
+    </tr>
+  </thead>
+</table>
+
+<%= link_to 'Edit', edit_category_path(@category), :class=>"btn btn-primary" %> |
+<%= link_to 'Back', categories_path, :class=>"btn btn-danger" %>

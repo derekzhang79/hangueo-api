@@ -1,0 +1,12 @@
+<h4>Sidebar</h4>
+<ul class="nav nav-list">
+	<li>
+		<%= link_to(categories_path) do %>
+  		  Categories <span class="badge badge-info"><%= Category.all.count %></span>
+		<% end %>
+	</li>
+	<li><%= link_to "Events", '#' %></li>
+	<li><%= link_to "Venues", '#' %></li>
+	<li><%= link_to "Host", '#' %></li>
+	<li><%= link_to "Ads", '#' %></li>
+</ul>
