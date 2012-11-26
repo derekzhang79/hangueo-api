@@ -29,15 +29,15 @@
   </div>
   <div class="field">
     <%= f.label :category %><br />
-    <%= f.text_field :category %>
+    <%= f.collection_select :category_id, Category.all, :id, :name, :prompt => '' %>
   </div>
   <div class="field">
     <%= f.label :venue %><br />
-    <%= f.text_field :venue %>
+    <%= f.collection_select :venue_id, Venue.all, :id, :name, :prompt => '' %>
   </div>
   <div class="field">
     <%= f.label :host %><br />
-    <%= f.text_field :host %>
+    <%= f.collection_select  :host_id, Host.all, :id, :name, :prompt => '' %>
   </div>
   <div class="actions">
     <%= f.submit %>
