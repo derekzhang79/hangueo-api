@@ -1,4 +1,9 @@
+if RUBY_VERSION =~ /1.9/
+    Encoding.default_external = Encoding::UTF_8
+      Encoding.default_internal = Encoding::UTF_8
+end
 source 'https://rubygems.org'
+
 
 gem 'rails', '3.2.8'
 
@@ -7,6 +12,8 @@ gem 'rails', '3.2.8'
 
 gem 'sqlite3'
 gem 'carrierwave'
+gem 'oj'
+gem 'rabl'
 gem 'rmagick'
 gem "fog", "~> 1.3.1"
 gem 'bootstrap-sass', '~> 2.1.0.1'

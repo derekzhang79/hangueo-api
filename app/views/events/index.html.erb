@@ -1,6 +1,13 @@
 <h1>Listing events</h1>
 
-<table>
+<br />
+
+<%= link_to 'New Event', new_event_path, :class=>"btn btn-success"  %>
+
+<br />
+<br />
+
+<table class="table table-bordered table-condensed">
   <tr>
     <th>Name</th>
     <th>Date</th>
@@ -20,16 +27,12 @@
     <td><%= event.date %></td>
     <td><%= event.start_time %></td>
     <td><%= event.description %></td>
-    <td><%= event.category %></td>
-    <td><%= event.venue %></td>
-    <td><%= event.host %></td>
+    <td><%= event.category.try(:name) %></td>
+    <td><%= event.venue.try(:name) %></td>
+    <td><%= event.host.try(:name) %></td>
     <td><%= link_to 'Show', event %></td>
     <td><%= link_to 'Edit', edit_event_path(event) %></td>
     <td><%= link_to 'Destroy', event, method: :delete, data: { confirm: 'Are you sure?' } %></td>
   </tr>
 <% end %>
 </table>
-
-<br />
-
-<%= link_to 'New Event', new_event_path %>

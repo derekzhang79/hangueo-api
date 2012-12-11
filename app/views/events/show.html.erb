@@ -22,17 +22,17 @@
 
 <p>
   <b>Category:</b>
-  <%= @event.category %>
+  <%= @event.category.try(:name) %>
 </p>
 
 <p>
   <b>Venue:</b>
-  <%= @event.venue %>
+  <%= @event.venue.try(:name) %>
 </p>
 
 <p>
   <b>Host:</b>
-  <%= @event.host %>
+  <%= @event.host.try(:name) %>
 </p>
 
 

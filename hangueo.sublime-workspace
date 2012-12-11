@@ -1,0 +1,524 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"slide",
+				"slideshow"
+			],
+			[
+				"slid",
+				"slideshow_signput"
+			],
+			[
+				"Recommendations",
+				"Recommendations"
+			],
+			[
+				"sort_",
+				"sort_column"
+			],
+			[
+				"sear",
+				"search_query"
+			],
+			[
+				"st",
+				"StandardError"
+			],
+			[
+				"to_",
+				"to_datetime"
+			],
+			[
+				"dom",
+				"domain_regex"
+			],
+			[
+				"business",
+				"isBusiness"
+			],
+			[
+				"craw",
+				"crawler"
+			],
+			[
+				"re",
+				"regexp"
+			],
+			[
+				"min_ke",
+				"min_keywords"
+			],
+			[
+				"min",
+				"min_keywords"
+			],
+			[
+				"mat",
+				"matched_keywords"
+			],
+			[
+				"ma",
+				"matched_keywords"
+			],
+			[
+				"match",
+				"match_count"
+			],
+			[
+				"is",
+				"isActive"
+			],
+			[
+				"cra",
+				"crawler"
+			],
+			[
+				"s",
+				"setSelect2"
+			],
+			[
+				"margin",
+				"margin-bottom"
+			],
+			[
+				"single",
+				"single-field"
+			],
+			[
+				"Master",
+				"MasterCardData"
+			],
+			[
+				"platinum-business",
+				"platinum-businesses-content"
+			],
+			[
+				"data",
+				"data-transition"
+			],
+			[
+				"on",
+				"onResume"
+			],
+			[
+				"get",
+				"getDataVersion"
+			],
+			[
+				"actu",
+				"actualVersion"
+			],
+			[
+				"mo",
+				"actualMode"
+			],
+			[
+				"ac",
+				"actualMode"
+			],
+			[
+				"Net",
+				"networkAvailable"
+			],
+			[
+				"do",
+				"doFlow"
+			],
+			[
+				"check",
+				"checkConnection"
+			],
+			[
+				"da",
+				"databaseAvailable"
+			],
+			[
+				"set",
+				"setDatabase"
+			],
+			[
+				"mastercard",
+				"mastercard_db"
+			],
+			[
+				"net",
+				"networkAvailable"
+			],
+			[
+				"se",
+				"setOffline"
+			],
+			[
+				"bus",
+				"business_id"
+			],
+			[
+				"B",
+				"Business"
+			],
+			[
+				"Mas",
+				"MasterCardData"
+			],
+			[
+				"l",
+				"log"
+			],
+			[
+				"GE",
+				"getNewData"
+			],
+			[
+				"ne",
+				"networkAvailable"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "Packages/Ruby/Ruby.sublime-build",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"Snippet:  link",
+				"Snippet: link_to (path)"
+			],
+			[
+				"packa",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"pac",
+				"Preferences: Browse Packages"
+			]
+		],
+		"width": 530.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/lurraca/Desktop/projects/pixelpt/gfrmedia-video-admin/app/views/videos/index.html.haml",
+		"/Users/lurraca/Desktop/projects/pixelpt/gfrmedia-video-admin/app/views/slideshows/_form.html.haml",
+		"/Users/lurraca/Desktop/projects/pixelpt/gfrmedia-video-admin/config/routes.rb",
+		"/Users/lurraca/Desktop/projects/pixelpt/gfrmedia-video-admin/app/controllers/categories_controller.rb",
+		"/Users/lurraca/Desktop/projects/pixelpt/gfrmedia-video-admin/app/views/categories/_pagination_and_search.html.haml",
+		"/Users/lurraca/Desktop/projects/pixelpt/gfrmedia-video-admin/app/models/category.rb",
+		"/Users/lurraca/Desktop/projects/pixelpt/gfrmedia-video-admin/app/views/categories/index.html.haml",
+		"/Users/lurraca/Desktop/projects/pixelpt/gfrmedia-video-admin/app/views/categories/new.html.haml",
+		"/Users/lurraca/Desktop/projects/pixelpt/gfrmedia-video-admin/app/views/categories/_form.html.haml",
+		"/Users/lurraca/Desktop/projects/pixelpt/gfrmedia-video-admin/app/views/categories/edit.html.haml",
+		"/Users/lurraca/Desktop/projects/pixelpt/gfrmedia-video-admin/app/assets/javascripts/videos.js.coffee",
+		"/Users/lurraca/Desktop/projects/pixelpt/gfrmedia-video-admin/app/models/slideshow.rb",
+		"/Users/lurraca/Desktop/projects/pixelpt/gfrmedia-video-admin/app/controllers/videos_controller.rb",
+		"/Users/lurraca/Desktop/projects/pixelpt/gfrmedia-video-admin/app/controllers/slideshows_controller.rb",
+		"/Users/lurraca/Desktop/projects/pixelpt/gfrmedia-video-admin/app/controllers/application_controller.rb",
+		"/Users/lurraca/Desktop/projects/pixelpt/gfrmedia-video-admin/config/application.yml",
+		"/Users/lurraca/Desktop/projects/pixelpt/gfrmedia-video-admin/app/views/slideshows/index.html.haml",
+		"/Users/lurraca/Desktop/projects/pixelpt/gfrmedia-video-admin/app/views/publishers/_form.html.haml",
+		"/Users/lurraca/Desktop/projects/pixelpt/gfrmedia-video-admin/app/helpers/application_helper.rb",
+		"/Users/lurraca/Desktop/projects/pixelpt/gfrmedia-video-admin/app/helpers/slideshows_helper.rb",
+		"/Users/lurraca/Desktop/projects/pixelpt/gfrmedia-video-admin/db/migrate/20121130160457_changedatetime.rb",
+		"/Users/lurraca/Desktop/projects/pixelpt/gfrmedia-video-admin/app/views/videos/_form.html.haml",
+		"/Users/lurraca/Desktop/projects/pixelpt/gfrmedia-video-admin/vendor/assets/javascripts/slideshow-fileupload.js",
+		"/Users/lurraca/Desktop/projects/pixelpt/gfrmedia-video-admin/app/models/video.rb",
+		"/Users/lurraca/Desktop/projects/pixelpt/gfrmedia-video-admin/app/views/videos/_pagination_and_search.html.haml",
+		"/Users/lurraca/Desktop/projects/pixelpt/gfrmedia-video-admin/app/assets/javascripts/application.js",
+		"/Users/lurraca/Desktop/projects/pixelpt/gfrmedia-video-admin/app/assets/stylesheets/bootstrap_and_overrides.css.scss",
+		"/Users/lurraca/Desktop/projects/pixelpt/gfrmedia-video-admin/vendor/assets/javascripts/jquery.upload/slideshow-fileupload.js",
+		"/Users/lurraca/Desktop/projects/pixelpt/gfrmedia-video-admin/app/assets/images/bumbia.png",
+		"/Users/lurraca/Desktop/projects/pixelpt/gfrmedia-video-admin/db/migrate/20121129151919_add_url_logo_and_header_to_slideshows.rb",
+		"/Users/lurraca/Desktop/projects/pixelpt/gfrmedia-video-admin/Gemfile",
+		"/Users/lurraca/Desktop/projects/pixelpt/gfrmedia-video-admin/app/views/layouts/_navigation.html.haml",
+		"/Users/lurraca/Desktop/projects/pixelpt/gfrmedia-video-admin/config/navigation.rb",
+		"/Users/lurraca/Desktop/projects/pixelpt/gfrmedia-video-admin/app/views/users/index.html.haml",
+		"/Users/lurraca/Desktop/projects/pixelpt/gfrmedia-video-admin/app/views/publishers/_pagination_and_search.html.haml",
+		"/Users/lurraca/Desktop/projects/pixelpt/gfrmedia-video-admin/app/views/recommendations/_pagination_and_search.html.haml",
+		"/Users/lurraca/Desktop/projects/pixelpt/gfrmedia-video-admin/app/views/slideshows/_pagination_and_search.html.haml",
+		"/Users/lurraca/Desktop/projects/pixelpt/gfrmedia-video-admin/app/views/users/_pagination_and_search.html.haml",
+		"/Users/lurraca/Desktop/projects/pixelpt/gfrmedia-video-admin/app/views/videos/_videos_table.html.haml",
+		"/Users/lurraca/Desktop/projects/pixelpt/gfrmedia-video-admin/app/views/videos/_videos.html.haml",
+		"/Users/lurraca/Desktop/projects/pixelpt/gfrmedia-video-admin/app/views/videos/_pagination_links.html.haml",
+		"/Users/lurraca/Desktop/projects/pixelpt/gfrmedia-video-admin/app/views/videos/index.js.haml",
+		"/Users/lurraca/Desktop/projects/pixelpt/gfrmedia-video-admin/log/development.log",
+		"/Users/lurraca/Desktop/projects/freelancer/rails-scrapper/app/views/batch/index.html.erb",
+		"/Users/lurraca/Desktop/projects/freelancer/rails-scrapper/app/controllers/batch_controller.rb",
+		"/Users/lurraca/Desktop/projects/freelancer/rails-scrapper/app/views/layouts/_sidebar.html.erb",
+		"/Users/lurraca/Desktop/projects/freelancer/rails-scrapper/app/views/home/single_crawl.html.erb",
+		"/Users/lurraca/Desktop/projects/freelancer/rails-scrapper/app/views/home/_table.html.erb",
+		"/Users/lurraca/Desktop/projects/freelancer/rails-scrapper/app/views/home/_form.html.erb",
+		"/Users/lurraca/Desktop/projects/freelancer/rails-scrapper/app/models/matched_link.rb",
+		"/Users/lurraca/Desktop/projects/freelancer/rails-scrapper/app/models/keywords.rb",
+		"/Users/lurraca/Desktop/projects/freelancer/rails-scrapper/out.log",
+		"/Users/lurraca/Desktop/projects/freelancer/rails-scrapper/config/routes.rb",
+		"/Users/lurraca/Desktop/projects/freelancer/rails-scrapper/Gemfile",
+		"/Users/lurraca/Desktop/projects/freelancer/rails-scrapper/app/models/batch.rb",
+		"/Users/lurraca/Desktop/projects/freelancer/rails-scrapper/db/migrate/20120927075112_rename_valid_column_to_validsite.rb",
+		"/Users/lurraca/Desktop/projects/freelancer/rails-scrapper/app/views/home/do_crawl.html.erb",
+		"/Users/lurraca/Desktop/projects/freelancer/rails-scrapper/app/views/home/multi_crawl.html.erb",
+		"/Users/lurraca/Desktop/projects/freelancer/rails-scrapper/app/views/layouts/application.html.erb",
+		"/Users/lurraca/Desktop/projects/freelancer/rails-scrapper/app/controllers/home_controller.rb",
+		"/Users/lurraca/Desktop/projects/freelancer/rails-scrapper/app/models/test.rb",
+		"/Users/lurraca/Desktop/projects/freelancer/rails-scrapper/app/models/crawler.rb",
+		"/Users/lurraca/Desktop/projects/freelancer/rails-scrapper/app/views/home/settings.html.erb",
+		"/Users/lurraca/Desktop/projects/freelancer/rails-scrapper/app/controllers/application_controller.rb",
+		"/Users/lurraca/Desktop/projects/freelancer/rails-scrapper/app/models/setting.rb",
+		"/Users/lurraca/Desktop/projects/freelancer/rails-scrapper/config/settings.yml",
+		"/Users/lurraca/Desktop/projects/freelancer/rails-scrapper/[SITE]",
+		"/Users/lurraca/Desktop/projects/freelancer/rails-scrapper/app/views/home/multi.html.erb",
+		"/Users/lurraca/Desktop/projects/freelancer/rails-scrapper/app/assets/javascripts/home.js.coffee",
+		"/Users/lurraca/Desktop/projects/mbs/Hangueo/Landing/index.html",
+		"/Users/lurraca/Desktop/projects/freelancer/rails-scrapper/app/views/home/index.html.erb",
+		"/Users/lurraca/Desktop/projects/freelancer/rails-scrapper/app/assets/javascripts/application.js",
+		"/Users/lurraca/Desktop/projects/freelancer/rails-scrapper/app/assets/stylesheets/application.css.scss",
+		"/Users/lurraca/Desktop/projects/freelancer/rails-scrapper/app/views/home/single.html.erb",
+		"/Users/lurraca/Desktop/projects/freelancer/rails-scrapper/config/application.rb",
+		"/Users/lurraca/Desktop/projects/freelancer/rails-scrapper/README.rdoc",
+		"/Users/lurraca/Desktop/projects/freelancer/rails-scrapper/app/assets/javascripts/bootstrap.js",
+		"/Users/lurraca/Desktop/projects/freelancer/rails-scrapper/app/assets/stylesheets/bootstrap.min.css",
+		"/Users/lurraca/Desktop/projects/freelancer/rails-scrapper/app/views/layouts/_navigation.html.erb",
+		"/Users/lurraca/Desktop/projects/freelancer/rails-scrapper/app/assets/stylesheets/_variables.css.scss",
+		"/Users/lurraca/Documents/FacebookSDK/Samples/Scrumptious/scrumptious/SCAppDelegate.h",
+		"/Users/lurraca/Documents/FacebookSDK/Samples/HelloFacebookSample/HelloFacebookSample/HFAppDelegate.h",
+		"/Users/lurraca/Desktop/projects/mbs/mastercard-iphone/www/cordova-2.0.0.js"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"video",
+			"per_page",
+			"''}",
+			"View",
+			"find_by",
+			"find",
+			"tr",
+			"title",
+			"php",
+			"end",
+			"9000",
+			"transition",
+			"trans",
+			"slide",
+			"none",
+			"pop",
+			"slide",
+			"ben",
+			"flip",
+			"});\n",
+			"flip",
+			"<li><a data-theme=\"c\" class=\"categories-link\" href=\"#categories\">Categorias</a></li>",
+			"<li><a data-theme=\"c\" class=\"platinum-benefits-link\" href=\"#platinum-benefits\">Ofertas</a></li>",
+			"<li><a data-theme=\"c\" class=\"platinum-benefits-link\" href=\"#platinum-benefits\">Ofertas</a></l",
+			"pop",
+			"po",
+			"pop",
+			"mobile",
+			"slide",
+			"time",
+			"pop",
+			"slide",
+			"flip",
+			"alert",
+			"slide",
+			"alert",
+			"resume",
+			"business det",
+			"onDevice",
+			"true",
+			"onDeviceReady() {",
+			"onDeviceReady(){",
+			"onDeviceReady()",
+			"onDeviceReady",
+			"onDevice",
+			"ondevice",
+			"!\");\n",
+			"alert",
+			"block",
+			"send",
+			" \");",
+			"bix",
+			"img",
+			"\");",
+			"ui-bar-c",
+			".ui-bar-c",
+			"border",
+			"<center><img id=\"logo\" src=\"images/mastercardlogo.png\"></center>",
+			"<center><img src=\"images/mastercardlogo.png\"></center>",
+			"//$(\"#",
+			">\n",
+			"}\n"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"<li><a data-theme=\"c\" class=\"categories-link\" href=\"#categories\">Ofertas por Categorias</a></li>",
+			"",
+			"flip",
+			"pop",
+			"slide",
+			"<center><h1 id=\"logo\">My Logo</h1></center>",
+			"<center><img id=\"logo\" src=\"images/mastercardlogo.png\"></center>"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 100.0
+	},
+	"output.git":
+	{
+		"height": 100.0
+	},
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"slideshows/in",
+				"app/views/slideshows/index.html.haml"
+			],
+			[
+				"control",
+				"app/controllers/videos_controller.rb"
+			],
+			[
+				"videoco",
+				"app/controllers/videos_controller.rb"
+			],
+			[
+				"out",
+				"out.log"
+			],
+			[
+				"batch",
+				"app/models/batch.rb"
+			],
+			[
+				"bat",
+				"app/models/batch.rb"
+			],
+			[
+				"rout",
+				"config/routes.rb"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 437.0,
+	"status_bar_visible": true
+}

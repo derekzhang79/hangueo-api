@@ -3,6 +3,7 @@ class CreateAds < ActiveRecord::Migration
     create_table :ads do |t|
       t.string :name
       t.boolean :active
+      t.string :link_url
       t.date :start_date
       t.date :end_date
 

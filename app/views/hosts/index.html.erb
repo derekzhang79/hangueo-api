@@ -1,10 +1,19 @@
 <h1>Listing hosts</h1>
 
-<table>
+<br />
+
+<%= link_to 'New Host', new_host_path, :class=>"btn btn-success" %>
+
+
+<br />
+
+<br />
+
+<table class="table table-bordered table-condensed">
   <tr>
     <th>Name</th>
-    <th>Phone1</th>
-    <th>Phone2</th>
+    <th>Phone #1</th>
+    <th>Phone #2</th>
     <th></th>
     <th></th>
     <th></th>
@@ -21,7 +30,3 @@
   </tr>
 <% end %>
 </table>
-
-<br />
-
-<%= link_to 'New Host', new_host_path %>

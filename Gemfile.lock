@@ -114,7 +114,11 @@ GEM
     net-ssh (2.6.0)
       jruby-pageant (>= 1.1.1)
     nokogiri (1.5.5)
+    oj (1.4.7)
     polyglot (0.3.3)
+    rabl (0.7.9)
+      activesupport (>= 2.3.14)
+      multi_json (~> 1.0)
     rack (1.4.1)
     rack-cache (1.2)
       rack (>= 0.4)
@@ -200,6 +204,8 @@ DEPENDENCIES
   guard-rspec
   jquery-rails
   launchy
+  oj
+  rabl
   rails (= 3.2.8)
   rmagick
   rspec-rails
